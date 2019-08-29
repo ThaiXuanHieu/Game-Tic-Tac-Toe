@@ -74,7 +74,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn2.BackColor = System.Drawing.Color.Yellow;
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -83,7 +83,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn2.BackColor = System.Drawing.Color.Yellow;
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -92,7 +92,7 @@ namespace Tic_tac_toe
                 this.btn4.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn6.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -101,7 +101,7 @@ namespace Tic_tac_toe
                 this.btn4.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn6.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -110,7 +110,7 @@ namespace Tic_tac_toe
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
                 this.btn8.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -119,7 +119,7 @@ namespace Tic_tac_toe
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
                 this.btn8.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -128,7 +128,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn4.BackColor = System.Drawing.Color.Yellow;
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -137,7 +137,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn4.BackColor = System.Drawing.Color.Yellow;
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -146,7 +146,7 @@ namespace Tic_tac_toe
                 this.btn2.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn8.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -155,7 +155,7 @@ namespace Tic_tac_toe
                 this.btn2.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn8.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -164,7 +164,7 @@ namespace Tic_tac_toe
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
                 this.btn6.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -173,7 +173,7 @@ namespace Tic_tac_toe
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
                 this.btn6.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -182,7 +182,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -191,7 +191,7 @@ namespace Tic_tac_toe
                 this.btn1.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn9.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -200,7 +200,7 @@ namespace Tic_tac_toe
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "X Thắng";
+                lblWin.Text = "Bạn Thắng";
                 pnlFrame.Enabled = false;
                 return true;
             }
@@ -209,7 +209,7 @@ namespace Tic_tac_toe
                 this.btn3.BackColor = System.Drawing.Color.Yellow;
                 this.btn5.BackColor = System.Drawing.Color.Yellow;
                 this.btn7.BackColor = System.Drawing.Color.Yellow;
-                lblWin.Text = "O Thắng";
+                lblWin.Text = "Bạn Thua";
                 pnlFrame.Enabled = false;
                 return true;
             }
